@@ -9,7 +9,7 @@ main {
     border-radius: 4px;
     background: #43389F;
     background: linear-gradient(to top right, #43389F 0%, #4ec6ca 100%);
-  font-family: "Courier New", "Courier", sans-serif;
+    font-family: "Courier New", "Courier", sans-serif;
     color: #fff;
 }
 
